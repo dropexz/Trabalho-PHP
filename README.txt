@@ -77,7 +77,3 @@ C:\xampp\htdocs\Trabalho
 -------------
 - Pedro Henrique Valeriano
 ```
-
----
-
-Esse README está pronto para ser incluído na raiz da sua pasta `Trabalho`. Se quiser, posso gerar também o arquivo `.zip` com essa estrutura. É só me dizer!
